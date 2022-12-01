@@ -3,7 +3,7 @@ public class Main {
         //task 1
         System.out.println("Task 1");
 
-        int[] arrayInt = {1,2,3};
+        int[] arrayInt = new int[] {1,2,3};
         double[] arrayDouble = {1.57,7.654,9.986};
         String[] arrayString = new String[2];
         arrayString[0] = "Zero";
